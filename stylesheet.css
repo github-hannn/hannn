@@ -73,9 +73,6 @@ ul{
 	left:80%;
     transform: translateX(-75%);
 }
-.text-container{
-    z-index: 2;
-}
 .text-container .one{
 	font-family: calibri;
 	font-weight:bold;
@@ -99,7 +96,7 @@ ul{
  
 .text-container p{
 	margin:45px 0px 25px;
-	line-height:0px;
+    line-height:0px;
 }
 .text-container button{
 	width:130px;
