@@ -57,7 +57,7 @@ ul{
     display:none;
   }
   main {
-      background-image: url(bg.jpg);
+      background-image: url(image/bg.jpg);
       height: 95vh;
       background-size: cover;
       background-position: center;
