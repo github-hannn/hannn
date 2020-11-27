@@ -1,17 +1,15 @@
+/* Untuk Tablet */
 @media all and (max-width: 1000px) {
-  
-}
-@media all and (max-width: 670px) {
-  .header-right{
-    display:none;
-  }
-  .menu-icon{
-    display:block;
   }
   
-  footer {
-    text-align: center;
+  @media all and (max-width: 900px) {
   }
   
+  /* Untuk Smartphone */
+  @media all and (max-width: 670px) {
+    .box{
+        flex-grow: 0.7;
+    }
+
+  }
   
-}
